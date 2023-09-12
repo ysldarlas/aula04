@@ -2,3 +2,4 @@
 2 - água 
 3 - luz 
 4 - tijolo
+5 - reboco
